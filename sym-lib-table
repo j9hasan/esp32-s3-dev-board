@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ips_lcd_14pin")(type "KiCad")(uri "${KIPRJMOD}/ips_lcd_14pin.kicad_sym")(options "")(descr ""))
+)
